@@ -1,3 +1,4 @@
+Development
 # The Problem - Summer Break
 
 You are contacted by a friend in desperate need of help - they have just spent the summer mowing lawns and, while they made good money, they forgot that they need to declare their income and expenses for tax purposes! You have been asked to use your programming prowess to help them out. The good news is that they kept all their invoices and receipts and have already performed the data-entry task. They merely need you to process the data and yield a tax-friendly report. You ask them why they don't just use [a spreadsheet, Turbo Tax, etc] but they scoff at your lack of DIY enthusiasm, alas.
